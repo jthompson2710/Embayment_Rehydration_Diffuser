@@ -3,6 +3,7 @@ A model that allows a user to extract information from diffusion-limited concent
 
 # Embayment_Rehydration_Diffuser_Line
 1D diffusion of H2O rehydration through an Embayment
+
 Non-isothermal model
 
 
