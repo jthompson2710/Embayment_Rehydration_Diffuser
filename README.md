@@ -17,7 +17,7 @@ Requires:
 Michael Manga provided the conductive cooling model
 
 
-Copyright 2023-- James O Thompson (Baylor University)
+Copyright 2023-- James O Thompson (University of Texas, Austin)
 
 
 Contributors: Kenneth Befus, Michael Manga , Chelsea Allison, Ben Black, Ben Andrews, Anna Ruefer
